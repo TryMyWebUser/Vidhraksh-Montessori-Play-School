@@ -20,9 +20,9 @@
                         <div class="">
                             <h2 class="xl:text-[70px] lg:text-6xl md:text-5xl text-4xl font-bold leading-[117%]">Contact Us</h2>
                             <ul class="lg:pt-5 pt-3 flex items-center lg:gap-5 gap-2">
-                                <li><a href="#" class="lg:text-[28px] text-xl font-bold">Home</a></li>
+                                <li><a href="index.php" class="lg:text-[28px] text-xl font-bold">Home</a></li>
                                 <li><i class="fa-solid fa-angle-right"></i></li>
-                                <li><a href="#" class="lg:text-[28px] text-xl font-bold">Contact Us</a></li>
+                                <li><a href="contact.php" class="lg:text-[28px] text-xl font-bold">Contact Us</a></li>
                             </ul>
                         </div>
                         <div class="relative">
@@ -46,7 +46,7 @@
                             <span class="text-cream-foreground text-[28px]"><i class="fa-solid fa-location-dot"></i></span>
                         </div>
                         <h5 class="font-bold text-xl mt-5 pb-2.5">Location</h5>
-                        <p>120os road no12.Mirpur,Bangladesh</p>
+                        <p><a href="https://maps.app.goo.gl/uh74MhwEG22FTEjP6">#3, Gandhi Nagar, (Behind Cheran Nagar) G.N.Mill Post, Coimbatore - 641029</a></p>
                     </div>
                     <!-- card end -->
                     <!-- card start -->
@@ -55,7 +55,7 @@
                             <span class="text-cream-foreground text-[28px]"><i class="fa-solid fa-envelope"></i></span>
                         </div>
                         <h5 class="font-bold text-xl mt-5 pb-2.5">Mail</h5>
-                        <p><a href="#">nafiz123@gmail.com</a>- <a href="#">fahad 1234@gmail.com</a></p>
+                        <p><a href="mailto:admin@vidhraksh.com">admin@vidhraksh.com</a></p>
                     </div>
                     <!-- card end -->
                     <!-- card start -->
@@ -64,7 +64,7 @@
                             <span class="text-cream-foreground text-[28px]"><i class="fa-solid fa-phone"></i></span>
                         </div>
                         <h5 class="font-bold text-xl mt-5 pb-2.5">Contact</h5>
-                        <p><a href="#">013254974147</a>,<a href="#">01258369741</a></p>
+                        <p><a href="tel:+917708676700">+91 7708676700</a></p>
                     </div>
                     <!-- card end -->
                 </div>
@@ -73,13 +73,13 @@
         <!-- address and info -->
 
         <div class="lg:pt-15 lg;pb-15 pb-10 pt-10 overflow-x-hidden">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d28617.938088161813!2d88.9847771!3d26.2862453!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1716712456909!5m2!1sen!2sbd"
+            <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d69053.36079204927!2d76.96379667957302!3d11.056369793952735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba8589f581ef925%3A0x51e8bb02bb1923e5!2sVidhraksh%20Montessori%20Play%20School!5e1!3m2!1sen!2sin!4v1742382017187!5m2!1sen!2sin" 
                 width="1920"
-                height="497"
-                style="border: 0;"
-                allowfullscreen=""
-                loading="lazy"
+                height="497" 
+                style="border:0;" 
+                allowfullscreen="" 
+                loading="lazy" 
                 referrerpolicy="no-referrer-when-downgrade"
             ></iframe>
         </div>
@@ -103,8 +103,8 @@
                                         <img src="assets/images/contact/winner.svg" alt="img" />
                                     </div>
                                     <div>
-                                        <h4 class="text-[28px] font-bold text-cream-foreground leading-[148%] font-nunito">2k+</h4>
-                                        <h6 class="text-xl font-bold text-cream-foreground mt-[5px] leading-[130%]">Project Completed</h6>
+                                        <h4 class="text-[28px] font-bold text-cream-foreground leading-[148%] font-nunito">2018</h4>
+                                        <h6 class="text-xl font-bold text-cream-foreground mt-[5px] leading-[130%]">Since</h6>
                                     </div>
                                 </div>
                             </div>
@@ -160,9 +160,9 @@
                             <h2 class="font-bold lg:text-[32px] md:text-[28px] text-2xl lg:leading-[130%] md:leading-[120%] leading-[110%] mt-2.5 max-w-[410px] wow fadeInUp" data-wow-delay=".3s">
                                 The path to success starts with education
                             </h2>
-                            <p class="mt-5 wow fadeInUp" data-wow-delay=".4s">Lorem ipsum dolor sit amet consectetur. Amet lectus mi ultricies dictum facilisis sem. Imperdiet massa turpis sit proin metus volutpat.</p>
+                            <p class="mt-5 wow fadeInUp" data-wow-delay=".4s">Vidhraksh Montessori School is headed by Mrs. Vijayalakshmi.D She is a curious learner exploring new things and thoughts everyday.</p>
                             <div class="mt-9">
-                                <a href="#" class="btn-rounded-full">Read More</a>
+                                <a href="about.php" class="btn-rounded-full">Read More</a>
                             </div>
                         </div>
                         <div class="relative">
