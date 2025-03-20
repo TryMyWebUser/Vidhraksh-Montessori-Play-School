@@ -44,16 +44,16 @@ dropdown.forEach((e, i) => {
             if (i === index) {
                 if (dropdownItem[index].classList.contains("opacity-100")) {
                     dropdownItem[index].classList.add("opacity-0", "invisible", "max-h-0")
-                    dropdownItem[index].classList.remove("opacity-100", "visible", "max-h-[450px]")
+                    dropdownItem[index].classList.remove("opacity-100", "visible", "max-h-[auto]")
                 }
                 else {
                     dropdownItem[index].classList.remove("opacity-0", "invisible", "max-h-0")
-                    dropdownItem[index].classList.add("opacity-100", "visible", "max-h-[450px]")
+                    dropdownItem[index].classList.add("opacity-100", "visible", "max-h-[auto]")
                 }
             }
             else {
                 dropdownItem[index].classList.add("opacity-0", "invisible", "max-h-0")
-                dropdownItem[index].classList.remove("opacity-100", "visible", "max-h-[450px]")
+                dropdownItem[index].classList.remove("opacity-100", "visible", "max-h-[auto]")
             }
         })
     })

@@ -1,11 +1,11 @@
-        <footer class="pt-[70px] relative">
+<footer class="pt-[70px] relative">
             <div class="container">
                 <div class="grid lg:grid-cols-3 sm:grid-cols-3 grid-cols-3 justify-between gap-7.5">
                     <!-- compnay info start -->
                     <div class="wow fadeInUp" data-wow-delay=".3s">
                         <a href="" class="flex items-center gap-1">
-                            <!-- <img src="assets/images/logo.png" alt="img"> -->
-                            <span class="font-bold text-3xl">Vidhraksh Montessori Play School</span>
+                             <img src="assets/images/s-logo.png" style="width: 18rem;" alt="img"> 
+                            <!--<span class="font-bold text-3xl">Vidhraksh Montessori Play School</span>-->
                         </a>
                         <p class="pt-4">Vidhraksh Montessori School is headed by Mrs. Vijayalakshmi.D She is a curious learner exploring new things and thoughts everyday.</p>
                         <ul class="flex items-center gap-5 pt-7.5">
@@ -71,3 +71,5 @@
         <script src="assets/js/animate.js"></script>
         <script src="assets/js/wow.min.js"></script>
         <script src="assets/js/main.js"></script>
+        
+        <a href="https://wa.me/917708676700" class="whatsapp_float" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>

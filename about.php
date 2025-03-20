@@ -72,98 +72,86 @@
         <!-- about section end -->
 
         <!-- Portfolio section start -->
-        <section class="lg:pt-15 lg:pb-15 pt-10 pb-10 portfolio">
+        <section class="portfolio">
             <div class="container">
-                <div class="text-center flex flex-col items-center">
-                    <p class="text-secondary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">Latest Gallery</p>
-                    <!-- <h2 class="font-bold lg:text-[32px] md:text-[28px] text-2xl lg:leading-[130%] md:leading-[120%] leading-[110%] lg:max-w-[630px] wow fadeInUp" data-wow-delay=".3s">
-                        Exploring Minds Elementary School Education the only school
-                    </h2> -->
+                <div class="text-center">
+                    <p class="section-title">Latest Gallery</p>
                 </div>
-                <div class="mt-[64px] overflow-hidden relative wow fadeInUp" data-wow-delay=".3s">
-                    <!-- group one -->
-                    <div data-target="education" class="grid lg:gap-7.5 gap-4 grid-cols-12 grid-rows-[277px] relative top-0 left-0 transition-all duration-500 translate-y-0 target-card">
-                        <!-- card start -->
-                        <div class="sm:col-start-1 md:col-end-5 sm:col-end-7 col-span-full sm:row-span-2 relative group/card">
-                            <img src="assets/vmps/1.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-5 md:col-end-10 sm:col-start-7 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/2.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-10 sm:col-start-7 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/3.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-5 md:col-end-9 sm:col-start-1 sm:col-end-7 col-span-full relative group/card">
-                            <img src="assets/vmps/4.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-9 sm:col-span-6 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/5.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="sm:col-start-1 md:col-end-5 sm:col-end-7 col-span-full sm:row-span-2 relative group/card">
-                            <img src="assets/vmps/6.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-5 md:col-end-10 sm:col-start-7 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/7.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-10 sm:col-start-7 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/8.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-5 md:col-end-9 sm:col-start-1 sm:col-end-7 col-span-full relative group/card">
-                            <img src="assets/vmps/9.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-9 sm:col-span-6 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/10.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="sm:col-start-1 md:col-end-5 sm:col-end-7 col-span-full sm:row-span-2 relative group/card">
-                            <img src="assets/vmps/11.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-5 md:col-end-10 sm:col-start-7 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/12.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-10 sm:col-start-7 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/13.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-5 md:col-end-9 sm:col-start-1 sm:col-end-7 col-span-full relative group/card">
-                            <img src="assets/vmps/14.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                        <!-- card start -->
-                        <div class="md:col-start-9 sm:col-span-6 sm:col-end-13 col-span-full relative group/card">
-                            <img src="assets/vmps/15.jpg" alt="img" class="w-full h-full max-h-[300px] sm:max-h-full object-cover rounded-[10px]" />
-                        </div>
-                        <!-- card end -->
-                    </div>
-                    <!-- group one -->
+                <div class="gallery-grid">
+                    <!-- Image Cards -->
+                    <div class="gallery-item"><img src="assets/vmps/1.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/2.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/3.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/4.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/5.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/6.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/7.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/8.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/9.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/10.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/11.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/12.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/13.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/14.png" alt="img" /></div>
+                    <div class="gallery-item"><img src="assets/vmps/15.png" alt="img" /></div>
                 </div>
             </div>
         </section>
         <!-- Portfolio section end -->
+        <style>
+            /* Basic section styles */
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+            }
+
+            .section-title {
+                font-size: 24px;
+                font-weight: bold;
+                margin-bottom: 30px;
+                color: #333;
+            }
+
+            /* Responsive grid layout */
+            .gallery-grid {
+                display: grid;
+                gap: 16px;
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            }
+
+            /* Individual card styles */
+            .gallery-item {
+                position: relative;
+                overflow: hidden;
+                border-radius: 10px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+
+            /* Image styles */
+            .gallery-item img {
+                width: 100%;
+                height: 300px;
+                object-fit: cover;
+                transition: transform 0.3s ease;
+            }
+
+            /* Hover effect */
+            .gallery-item:hover img {
+                transform: scale(1.05);
+            }
+
+            /* Responsive for smaller screens */
+            @media (max-width: 768px) {
+                .gallery-grid {
+                    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+                }
+
+                .gallery-item img {
+                    height: 200px;
+                }
+            }
+        </style>
+
 
         <!-- newsletter section start -->
         <section class="lg:pt-15 pt-10">

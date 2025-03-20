@@ -1,4 +1,4 @@
-        <header id="header" class="sticky top-0 transition-[top] duration-300 z-40">
+<header id="header" class="sticky top-0 transition-[top] duration-300 z-40">
             <div id="header-container">
                 <!-- top header start -->
                 <div id="top-header" class="bg-destructive sm:block hidden">
@@ -41,8 +41,8 @@
                         <div class="flex justify-between items-center ">
                             <div>
                                 <a href="index.php" class="flex items-center gap-1">
-                                    <!-- <img src="assets/images/logo.png" alt="img"> -->
-                                    <span class="font-bold text-2xl ">Vidhraksh Montessori Play School</span>
+                                     <img src="assets/images/s-logo.png" style="width: 18rem;" alt="img"> 
+                                    <!--<span class="font-bold text-2xl ">Vidhraksh Montessori Play School</span>-->
                                 </a>
                             </div>
                             <div class="flex items-center">
@@ -107,8 +107,8 @@
                                     <nav class="bg-warm border-l-2 border-l-primary w-full max-w-md min-h-screen h-full overflow-y-auto p-7 shadow-md fixed -right-full top-0 z-50 transition-all duration-500 offcanva">
                                         <div class="flex justify-between items-center">
                                             <a href="" class="flex items-center gap-1">
-                                                <!-- <img src="assets/images/logo.png" alt="img"> -->
-                                                <span class="font-bold text-2xl ">Vidhraksh Montessori Play School</span>
+                                                 <img src="assets/images/s-logo.png" style="width: 18rem;" alt="img"> 
+                                                <!--<span class="font-bold text-2xl ">Vidhraksh Montessori Play School</span>-->
                                             </a>
                                             <div class="bg-primary w-10 h-10 text-cream-foreground flex items-center justify-center rounded-[4px] left-4 offcanvaClose">
                                                 <i class="fa-solid fa-xmark text-xl"></i>
@@ -132,22 +132,34 @@
                                                         <a href="c1.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Brain Gym Exercises</a>
                                                     </li>
                                                     <li>
-                                                        <a href="c2.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Science</a>
+                                                        <a href="c2.php#scie" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Science</a>
                                                     </li>
                                                     <li>
                                                         <a href="c3.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Culture</a>
                                                     </li>
                                                     <li>
-                                                        <a href="c4.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Sanskrit</a>
+                                                        <a href="c4.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Classical Carnatic Music</a>
                                                     </li>
                                                     <li>
-                                                        <a href="c5.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Practical Life Exercises</a>
+                                                        <a href="c5.php#san" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Sanskrit</a>
                                                     </li>
                                                     <li>
-                                                        <a href="c6.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Tamil</a>
+                                                        <a href="c5.php#tamil" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Tamil</a>
                                                     </li>
                                                     <li>
-                                                        <a href="c7.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">English</a>
+                                                        <a href="c5.php#eng" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">English</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="c5.php#hin" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Hindi</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="c6.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Practical Life Exercises</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="c2.php#math" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Maths</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="c7.php" class="text-[#385469] font-jost hover:text-secondary-foreground transition-all duration-500 py-2.5 px-6 block border-b border-b-slate-300">Field Trips</a>
                                                     </li>
                                                 </ul>
                                             </li>
