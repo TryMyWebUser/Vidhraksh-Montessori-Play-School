@@ -63,22 +63,34 @@
                                                     <a href="c1.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Brain Gym Exercises</a>
                                                 </li>
                                                 <li>
-                                                    <a href="c2.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Science</a>
+                                                    <a href="c2.php#scie" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Science</a>
                                                 </li>
                                                 <li>
                                                     <a href="c3.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Culture</a>
                                                 </li>
                                                 <li>
-                                                    <a href="c4.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Sanskrit</a>
+                                                    <a href="c4.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Classical Carnatic Music</a>
                                                 </li>
                                                 <li>
-                                                    <a href="c5.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Practical Life Exercises</a>
+                                                    <a href="c5.php#san" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Sanskrit</a>
                                                 </li>
                                                 <li>
-                                                    <a href="c6.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Tamil</a>
+                                                    <a href="c5.php#tamil" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Tamil</a>
                                                 </li>
                                                 <li>
-                                                    <a href="c7.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">English</a>
+                                                    <a href="c5.php#eng" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">English</a>
+                                                </li>
+                                                <li>
+                                                    <a href="c5.php#hin" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Hindi</a>
+                                                </li>
+                                                <li>
+                                                    <a href="c6.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Practical Life Exercises</a>
+                                                </li>
+                                                <li>
+                                                    <a href="c2.php#math" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Maths</a>
+                                                </li>
+                                                <li>
+                                                    <a href="c7.php" class=" font-semibold font-jost hover:text-cream-foreground hover:bg-primary transition-all duration-500 py-3 px-2.5 block border-b border-b-slate-300">Field Trips</a>
                                                 </li>
                                             </ul>
                                         </li>
