@@ -42,7 +42,8 @@
                     <div class="">
                         <p class="text-primary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">About Us</p>
                         <h2 class="font-bold lg:text-[32px] md:text-[28px] text-2xl lg:leading-[130%] md:leading-[120%] leading-[110%] mt-2.5 lg:max-w-[410px] wow fadeInUp" data-wow-delay=".3s">Vidhraksh Montessori Play School</h2>
-                        <p class="mt-5 wow fadeInUp" data-wow-delay=".4s">Vidhraksh Montessori School is headed by Mrs. Vijayalakshmi.D She is a curious learner exploring new things and thoughts everyday. Her experience with children have taught her to be transparent and clarity in all her actions. Even though she is B.E., Degree holder, She finds joy in holding a child’s hand to take the child into successful journey. She is also N.L.P trainer deal with teenager problems and counsel teachers, but she felt true happiness when she make the children be confident, trust, and respect themselves. Thus she Nurtures every Little Dream of a child and celebrate every tiny victory of her students.</p>
+                        <p class="mt-5 wow fadeInUp" data-wow-delay=".4s">Vidhraksh Montessori Play School was inaugurated on 22nd October 2018. We offer vast enriching environment to mould the kids of various age groups (2-6 years) to make learning fun while gaining utmost knowledge. At Vidhraksh, we give complete independence and limited freedom to the children to approach and develop their interests at their own pace. By this way they show interest and their skills develop from an early age. Teachers act as guide to the kids and interfere when in need . Through observation we are able to identify the children talents and encourage them by developing those skills. We strictly follow all the rules and regulations of Montessori and we are a certified . We work from Monday to Friday in Cheranagar, near Kaundampalayam.</p>
+                        <p class="mt-5 wow fadeInUp" data-wow-delay=".4s">Our goal is to nurture every little dream of a child and celebrate every tiny victory of our students.</p>
                         <!-- <p class="mt-5 wow fadeInUp" data-wow-delay=".5s">Lorem ipsum dolor sit amet cons Amet lectus mi ultricies dictum facilisis sem Lorem ipsum dolor sit amet consectetur. Amet lectus mi ultricies</p> -->
                         <!-- <div class="flex gap-8 mt-10 wow fadeInUp" data-wow-delay=".6s">
                             <a href="#" class="btn-rounded-full">Read More</a>
@@ -70,6 +71,28 @@
             </div>
         </section>
         <!-- about section end -->
+
+        <!-- counter start -->
+        <section class="lg:pt-15 pt-10 lg:pb-15 pb-10">
+            <div class="container">
+                <div class="grid xl:grid-cols-2 lg:grid-cols-[40%_auto] grid-cols-1 gap-7.5">
+                    <!-- left side start -->
+                    <div class="lg:max-w-[600px]">
+                        <p class="text-primary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">Our Vission</p>
+                        <br><p class="wow fadeInUp" data-wow-delay=".3s">To nurture little dreams of a child and celebrate every tiny victory of the students with the parents.</p>
+                    </div>
+                    <!-- left side end -->
+
+                    <!-- right side start -->
+                    <div class="lg:max-w-[600px]">
+                        <p class="text-primary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">Our Mission</p>
+                        <br><p class="wow fadeInUp" data-wow-delay=".3s">To ensure the child finds their own interests and to become confident, trusting and respectful towards themselves. We strongly believe in self learning, self- love and independence.  Children need to be given their freedom with certain limitations and they will automatically learn discipline and structure by keen observation in a free spirited environment. We honour each and every child’s thoughts and imagination thereby not crippling their minds.</p>
+                    </div>
+                    <!-- right side end -->
+                </div>
+            </div>
+        </section>
+        <!-- counter end -->
 
         <!-- Portfolio section start -->
         <section class="portfolio">

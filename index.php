@@ -63,7 +63,7 @@
         <!-- about section start -->
         <section class="lg:pt-15 pt-10 lg:pb-15 pb-10">
             <div class="container">
-                <div class="grid lg:grid-cols-[60%_40%] grid-cols-1 items-center">
+                <div class="grid lg:grid-cols-[60%_40%] grid-cols-1 items-center" style="display: flex; align-items: center; justify-content: space-evenly;">
                     <div class="relative">
                         <div class="flex sm:flex-row flex-col sm:items-end gap-6">
                             <div class="wow fadeInUp" data-wow-delay="1200">
@@ -71,32 +71,77 @@
                                     <img src="assets/images/about/shap-1.png" alt="shap" />
                                 </div>
                                 <div class="ml-9">
-                                    <img src="assets/images/about/about-1.png" alt="about-bg" class="w-full" />
-                                </div>
-                            </div>
-                            <div class="flex sm:flex-col gap-8">
-                                <div class="bg-warm max-w-[212px] rounded-[11px] px-5 pt-[22px] pb-6 flex flex-col items-center justify-center text-center">
-                                    <img src="assets/images/about/icreement.png" alt="icreement" />
-                                    <h6 class="text-xl font-bold">Vidhraksh Montessori</h6>
-                                    <p>Play School</p>
-                                </div>
-                                <div class="bg-background max-w-[212px] rounded-[11px] px-5 pt-[22px] pb-6 flex flex-col justify-center drop-shadow-[0px_4.8px_24.4px_rgba(19,16,34,0.10)]">
-                                    <h6 class="text-[32px] font-bold text-secondary-foreground">2018</h6>
-                                    <p>Since</p>
+                                    <img src="assets/images/about/about-1.1.png" alt="about-bg" class="w-full" />
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- right side start -->
                     <div class="lg:max-w-[439px] pt-7.5">
-                        <p class="text-secondary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">About Us</p>
-                        <h2 class="font-bold lg:text-[32px] md:text-[28px] text-2xl lg:leading-[130%] md:leading-[120%] leading-[110%] pb-5 wow fadeInUp" data-wow-delay=".3s">Vidhraksh Montessori Play School</h2>
+                        <h2 class="font-bold lg:text-[32px] md:text-[28px] text-2xl lg:leading-[130%] md:leading-[120%] leading-[110%] pb-5 wow fadeInUp" data-wow-delay=".3s">Our Correspondent</h2>
                         <p class="wow fadeInUp" data-wow-delay=".4s">
-                        Vidhraksh Montessori School is headed by Mrs. Vijayalakshmi.D She is a curious learner exploring new things and thoughts everyday. Her experience with children have taught her to be transparent and clarity in all her actions. Even though she is B.E., Degree holder, She finds joy in holding a child’s hand to take the child into successful journey.
+                        Mrs.Vijayalakshmi Dheenadhayalan is a curious learner exploring new thoughts and things everyday. Her experience with children has taught her to have transparency and clarity in all her actions. Even though she is a B.E.,degree holder, she finds joy in holding a child’s hand and lead the child into a successful journey. She is also an N.L.P trainer which deals with teenager problems and also counsels teachers. 
                         </p>
-                        <a href="about.php" class="border border-gray-200 rounded-md lg:mt-10 mt-7 hover:text-cream-foreground btn">Read More</a>
                     </div>
                     <!-- right side end -->
+                </div>
+            </div>
+        </section>
+        <!-- about section end -->
+
+        <!-- Team section start -->
+        <section class="lg:pt-15 lg:pb-15 pt-10 pb-10">
+            <div class="container">
+                <div class="text-center flex flex-col items-center ">
+                    <p class="text-secondary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">Vidhraksh Team</p>
+                    <br><!-- <h2 class="font-bold lg:text-[32px] md:text-[28px] text-2xl lg:leading-[130%] md:leading-[120%] leading-[110%] lg:max-w-[520px] wow fadeInUp" data-wow-delay=".3s">Joyful Journeys Childcare and the Of a Education</h2> -->
+                    <p>At Vidhraksh Montessori Play School we have a team of passionate and diligent professionals. Our Montessori educators have been trained and certified with a Montessori diploma. They prepare the environment, plan the curriculum, observe and guide the children according to their needs and requirements. Our team’s main priority is to recognize and develop the child’s personality and provide them a healthy environment. We find happiness in providing and fulfilling the needs of the children and the parents.  In addition to the teaching staff, we are supported by the non teaching staff who are attentive and work towards making the school a pleasant and healthy environment to work in.</p>
+                </div>
+            </div>
+        </section>
+        <!-- Team section end -->
+
+        <!-- about section start -->
+        <section class="lg:pt-15 pt-10 lg:pb-15 pb-10">
+            <div class="container">
+                <div class="lg:max-w-[auto] pt-7.5">
+                    <p class="text-secondary-foreground font-bubblegum-sans text-[19px] wow fadeInUp">Why Montessori</p>
+                    <br>
+                    <p class="wow fadeInUp" data-wow-delay=".4s">
+                    Difference Between Montessori Model and Traditional Educational Model.
+                    </p>
+                    <br>
+                    <table>
+                        <tr>
+                            <th>Montessori Model</th>
+                            <th>Traditional Educational Model</th>
+                        </tr>
+                        <tr>
+                            <td>Teacher as facilitator of learning</td>
+                            <td>Teacher has active role, children have more passive role</td>
+                        </tr>
+                        <tr>
+                            <td>Designed to foster self-discipline</td>
+                            <td>Discipline primarily enforced by teacher</td>
+                        </tr>
+                        <tr>
+                            <td>Instruction adapts to student's learning style</td>
+                            <td>Instruction based on adult's teaching style</td>
+                        </tr>
+                        <tr>
+                            <td>Child pursues knowledge based on interests and abilities</td>
+                            <td>Curriculum is pre-planned and uniform for all children</td>
+                        </tr>
+                        <tr>
+                            <td>Children allowed to move around and talk as needed without disturbing others' work</td>
+                            <td>Children assigned their own desk and required to sit still during lessons</td>
+                        </tr>
+                        <tr>
+                            <td>Child learns to recognize and self-correct efforts from feedback</td>
+                            <td>Errors are pointed out by teacher</td>
+                        </tr>
+                    </table>
+                    <!-- <a href="about.php" class="border border-gray-200 rounded-md lg:mt-10 mt-7 hover:text-cream-foreground btn">Read More</a> -->
                 </div>
             </div>
         </section>
@@ -283,7 +328,7 @@
             <div class="container">
                 <div class="grid lg:grid-cols-2 grid-cols-1 items-center gap-7.5">
                     <div class="max-w-[528px] lg:max-w-full mx-auto">
-                        <img src="assets/images/age/magnifying-glass-student.png" alt="child with laptop" />
+                        <img src="assets/vmps/3.png" alt="child" />
                     </div>
                     <div>
                         <div class="lg:max-w-[520px] pb-10">
