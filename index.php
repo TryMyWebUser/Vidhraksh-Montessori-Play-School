@@ -71,7 +71,7 @@
                                     <img src="assets/images/about/shap-1.png" alt="shap" />
                                 </div>
                                 <div class="ml-9">
-                                    <img src="assets/images/about/about-1.1.png" alt="about-bg" class="w-full" />
+                                    <img src="assets/images/about/about-1.1.png" alt="about-bg" class="w-full" style="border-radius: 2rem;" />
                                 </div>
                             </div>
                         </div>
@@ -328,7 +328,7 @@
             <div class="container">
                 <div class="grid lg:grid-cols-2 grid-cols-1 items-center gap-7.5">
                     <div class="max-w-[528px] lg:max-w-full mx-auto">
-                        <img src="assets/vmps/3.png" alt="child" />
+                        <img src="assets/vmps/3.png" style="border-radius: 2rem;" alt="child" />
                     </div>
                     <div>
                         <div class="lg:max-w-[520px] pb-10">

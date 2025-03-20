@@ -41,7 +41,7 @@
                         <div class="flex justify-between items-center ">
                             <div>
                                 <a href="index.php" class="flex items-center gap-1">
-                                     <img src="assets/images/s-logo.png" style="width: 18rem;" alt="img"> 
+                                     <img src="assets/images/s-logo.png" style="width: 10rem;" alt="img"> 
                                     <!--<span class="font-bold text-2xl ">Vidhraksh Montessori Play School</span>-->
                                 </a>
                             </div>
@@ -107,7 +107,7 @@
                                     <nav class="bg-warm border-l-2 border-l-primary w-full max-w-md min-h-screen h-full overflow-y-auto p-7 shadow-md fixed -right-full top-0 z-50 transition-all duration-500 offcanva">
                                         <div class="flex justify-between items-center">
                                             <a href="" class="flex items-center gap-1">
-                                                 <img src="assets/images/s-logo.png" style="width: 18rem;" alt="img"> 
+                                                 <img src="assets/images/s-logo.png" style="width: 10rem;" alt="img"> 
                                                 <!--<span class="font-bold text-2xl ">Vidhraksh Montessori Play School</span>-->
                                             </a>
                                             <div class="bg-primary w-10 h-10 text-cream-foreground flex items-center justify-center rounded-[4px] left-4 offcanvaClose">

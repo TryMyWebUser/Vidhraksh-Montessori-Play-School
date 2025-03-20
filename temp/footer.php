@@ -4,7 +4,7 @@
                     <!-- compnay info start -->
                     <div class="wow fadeInUp" data-wow-delay=".3s">
                         <a href="" class="flex items-center gap-1">
-                             <img src="assets/images/s-logo.png" style="width: 18rem;" alt="img"> 
+                             <img src="assets/images/s-logo.png" style="width: 10rem;" alt="img"> 
                             <!--<span class="font-bold text-3xl">Vidhraksh Montessori Play School</span>-->
                         </a>
                         <p class="pt-4">Vidhraksh Montessori School is headed by Mrs. Vijayalakshmi.D She is a curious learner exploring new things and thoughts everyday.</p>
